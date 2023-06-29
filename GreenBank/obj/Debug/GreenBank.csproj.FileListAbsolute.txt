@@ -1,0 +1,12 @@
+C:\Users\Lagoa\source\repos\GreenBank\GreenBank\bin\Debug\GreenBank.exe.config
+C:\Users\Lagoa\source\repos\GreenBank\GreenBank\bin\Debug\GreenBank.exe
+C:\Users\Lagoa\source\repos\GreenBank\GreenBank\bin\Debug\GreenBank.pdb
+C:\Users\Lagoa\source\repos\GreenBank\GreenBank\obj\Debug\GreenBank.csproj.AssemblyReference.cache
+C:\Users\Lagoa\source\repos\GreenBank\GreenBank\obj\Debug\GreenBank.Properties.Resources.resources
+C:\Users\Lagoa\source\repos\GreenBank\GreenBank\obj\Debug\GreenBank.csproj.GenerateResource.cache
+C:\Users\Lagoa\source\repos\GreenBank\GreenBank\obj\Debug\GreenBank.csproj.CoreCompileInputs.cache
+C:\Users\Lagoa\source\repos\GreenBank\GreenBank\obj\Debug\GreenBank.exe
+C:\Users\Lagoa\source\repos\GreenBank\GreenBank\obj\Debug\GreenBank.pdb
+C:\Users\Lagoa\source\repos\GreenBank\GreenBank\obj\Debug\GreenBank.LoginPage.resources
+C:\Users\Lagoa\source\repos\GreenBank\GreenBank\obj\Debug\GreenBank.View.Cadastro.resources
+C:\Users\Lagoa\source\repos\GreenBank\GreenBank\obj\Debug\GreenBank.View.Home.resources
